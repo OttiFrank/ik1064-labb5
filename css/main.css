@@ -1,0 +1,13 @@
+.input-container {
+    margin: 0 auto;
+    width: 40%;
+}
+.input-container input {
+    margin-bottom: 1em;
+}
+#exc-calc {
+    margin-bottom: 1em;
+}
+.table th, .table td {
+    text-align: center;
+}
